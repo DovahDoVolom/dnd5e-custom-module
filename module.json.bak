@@ -39,8 +39,8 @@
   "system": [],
   "dependencies": [],
   "socket": false,
-  "manifest": "https://raw.githubusercontent.com/DovahDoVolom/dnd5e-custom-module/main/module.json",
-  "download": "https://github.com/DovahDoVolom/dnd5e-custom-module/archive/refs/tags/Main.zip",
+  "manifest": "https://github.com/DovahDoVolom/dnd5e-custom-module/blob/e4e0934de62c3b9e846ab1efafb8ec17a40d6b66/module.json",
+  "download": "https://github.com/DovahDoVolom/dnd5e-custom-module/archive/refs/heads/main.zip",
   "protected": false,
   "coreTranslation": false,
   "library": false
