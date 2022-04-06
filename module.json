@@ -1,4 +1,5 @@
- "name": "custom-compendium",
+{
+  "name": "custom-compendium",
   "title": "Custom Compindium",
   "description": "<p>Custom compendium for the private DnD group spearheaded by Roux.</p>",
   "author": "Dovah",
@@ -38,8 +39,8 @@
   "system": [],
   "dependencies": [],
   "socket": false,
-  "manifest": "",
-  "download": "https://dl.dropbox.com/s/0mb7iyzbsb0js7p/jan-loos-dragonborn.zip",
+  "manifest": "https://github.com/DovahDoVolom/dnd5e-custom-module/blob/e4e0934de62c3b9e846ab1efafb8ec17a40d6b66/module.json",
+  "download": "https://github.com/DovahDoVolom/dnd5e-custom-module/archive/refs/heads/main.zip",
   "protected": false,
   "coreTranslation": false,
   "library": false
