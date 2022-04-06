@@ -15,16 +15,16 @@
   "languages": [],
   "packs": [
     {
-      "name": "custom-spells",
+      "name": "spell-bible",
       "label": "Spell Bible",
-      "path": "/Packs/spells.db",
+      "path": "/Packs/spell-bible.db",
       "entity": "Item",
       "private": false
     },
 	{
-      "name": "custom-items",
+      "name": "item-bible",
       "label": "Item Bible",
-      "path": "/Packs/homebrew.db",
+      "path": "/Packs/item-bible.db",
       "entity": "Item",
       "private": false
     },
