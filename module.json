@@ -1,0 +1,46 @@
+ "name": "custom-compendium",
+  "title": "Custom Compindium",
+  "description": "<p>Custom compendium for the private DnD group spearheaded by Roux.</p>",
+  "author": "Dovah",
+  "authors": [],
+  "url": "https://dnd.arorus.com",
+  "flags": {},
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.7.5",
+  "compatibleCoreVersion": "1.0.1",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "name": "custom-spells",
+      "label": "Spell Bible",
+      "path": "/Packs/spells.db",
+      "entity": "Item",
+      "private": false
+    },
+	{
+      "name": "custom-items",
+      "label": "Item Bible",
+      "path": "/Packs/homebrew.db",
+      "entity": "Item",
+      "private": false
+    },
+	{
+      "name": "attacksspells-monsters",
+      "label": "Monster Spell Bible",
+      "path": "/Packs/attacksspells-monsters.db",
+      "entity": "Item",
+      "private": false
+    }
+  ],
+  "system": [],
+  "dependencies": [],
+  "socket": false,
+  "manifest": "",
+  "download": "https://dl.dropbox.com/s/0mb7iyzbsb0js7p/jan-loos-dragonborn.zip",
+  "protected": false,
+  "coreTranslation": false,
+  "library": false
+}
